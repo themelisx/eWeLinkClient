@@ -1,8 +1,8 @@
-# Elecrow Weather Display
-Weather Display for Elecrow panels 3.5, 5 and 7 inches using Open Weather API.
+# Elecrow Display - OpenWeather - eWeLink
+Weather Display for Elecrow panels 5 and 7 inches using Open Weather API.
 Contains Arial fonts with Greek support
 
-_Note: 3.5 inches panel not tested._
+eWeLink is still under development since the eWeLink dev servers are unavialable
 
 Before you build, go to `Code\include\user_setup.h.example` 
 Create a copy of this file and name it `user_setup.h`
